@@ -10,6 +10,6 @@
 	* RPA 第六课——取舍和银行线
 	* RPA 第七课
 
-* [Price Action]()
+* [Price Action](2PA/PA.md)
 * [A 大的交易系统](3Alpha/alpha.md)
 	
