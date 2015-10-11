@@ -12,4 +12,5 @@
 
 * [Price Action](2PA/PA.md)
 * [A 大的交易系统](3Alpha/alpha.md)
+	* [进场规则](3Alpha/1jinchangguize.md) 	
 	
